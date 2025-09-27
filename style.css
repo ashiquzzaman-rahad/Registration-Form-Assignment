@@ -164,7 +164,7 @@ input[type="submit"]:hover {
   input:not([type="radio"]) {
     width: 91%;
     height: 25px;
-    border: 1px solid rgba(128, 128, 128, 0.267);
+    border: 1px solid rgba(0, 0, 0, 0.766);
     border-radius: 5px;
     padding-left: 10px;
   }

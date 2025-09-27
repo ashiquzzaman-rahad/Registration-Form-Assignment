@@ -119,6 +119,8 @@ input[type="submit"]:hover {
     margin: 0 20px;
     width: 95%;
     /* font-size: small; */
+    color: rgb(0, 0, 0);
+    font-weight: 500;
   }
 
   .main {

@@ -172,7 +172,7 @@ input[type="submit"]:hover {
   select {
     height: 30px;
     width: 95%;
-    border: 1px solid rgba(128, 128, 128, 0.502);
+    border: 1px solid rgba(0, 0, 0, 0.708);
     border-radius: 5px;
     padding-left: 10px;
   }
